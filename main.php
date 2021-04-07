@@ -11,7 +11,7 @@ define('API_KEY',$API_KEY);
 
 ///////////===[IMPORTING PLUGINS]===///////////
 
-include "./Plugins/proxy.php";
+include "./plugins/proxy.php";
 
 ////////////////=========[START MESSAGE]=========////////////////
 
